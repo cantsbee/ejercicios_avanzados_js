@@ -45,7 +45,7 @@ for (const user of users) {
   }
 }
 
-// Calculamos la media
+
 const averageVolume = totalVolume / totalSounds;
 
 console.log("La media del volumen es:", averageVolume);
