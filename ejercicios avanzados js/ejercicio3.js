@@ -33,7 +33,7 @@ const users = [
   },
 ];
 
-// Objeto para llevar el conteo de los sonidos favoritos
+
 const soundCount = {};
 
 
